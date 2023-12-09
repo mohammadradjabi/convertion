@@ -70,6 +70,7 @@ h1{
     background-color: rgba(156, 132, 132, 0.349);
     display: inline-block;
     width: fit-content;
+    margin-top: 8px;
     border-radius: 8px;
     
 }
